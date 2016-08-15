@@ -9,7 +9,7 @@ Manual wrapping
 
 If you have a relatively small amount of C/C++ code to wrap, you can
 do it by hand.  The `Extending and Embedding
-<http://docs.python.org/ext/ext.html>`__ section of the docs is a pretty
+<https://docs.python.org/2/extending/>`__ section of the docs is a pretty
 good reference.
 
 When I write wrappers for C and C++ code, I usually provide a procedural
